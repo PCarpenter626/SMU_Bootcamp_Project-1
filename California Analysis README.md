@@ -1,4 +1,4 @@
-# SMU_Bootcamp_Project-1: California Wildfire Analysis
+f# SMU_Bootcamp_Project-1: California Wildfire Analysis
 
 # California Wildfire Analysis (2013 - 2024)
 
@@ -44,7 +44,7 @@ This project utilizes the following Python libraries. Install them using pip if 
 pip install pandas numpy matplotlib seaborn scipy pingouin hvplot geopandas
 ```
 
-### Libraries Used
+## Libraries Used
 - `pandas`: Data manipulation and analysis
 - `numpy`: Numerical computations
 - `matplotlib.pyplot`: Data visualization
@@ -53,7 +53,18 @@ pip install pandas numpy matplotlib seaborn scipy pingouin hvplot geopandas
 - `pingouin`: Statistical hypothesis testing
 - `hvplot.pandas`: Interactive plotting
 - `geopandas`: Geospatial analysis
-
+- `datetime`: Date and time manipulation
+- `plotly.express`: Interactive visualizations
+- `plotly.graph_objects`: Advanced plotting
+- `time`: Time-related functions
+- `scipy.stats.linregress`: Linear regression analysis
+- `scipy.stats.spearmanr`: Spearman correlation analysis
+- `pathlib.Path`: File system path handling
+- `pyproj`: Coordinate reference system transformations
+- `cartopy`: Geospatial mapping
+- `geoviews`: Geographic data visualization
+- `os`: Operating system interface
+- `dotenv.load_dotenv`: Environment variable handling 
 
  ## Data Preprocessing & Cleaning
 The project uses two datasets:
@@ -92,7 +103,8 @@ The project uses two datasets:
    - Calculated median extinguishing time for each bin.
    - Estimated missing Fire Extinguished dates using the median values.
 
-## Additional 
+## Additional Information
+![This graph shows total and avg days of a wildfire per year]("C:\Users\Owner\Desktop\SMU\SMU_Bootcamp_Project-1\Wildfire duration by year.png")
 After cleaning, the final dataset was successfully exported to the output folder for analysis.
 
 ### Conclusion
