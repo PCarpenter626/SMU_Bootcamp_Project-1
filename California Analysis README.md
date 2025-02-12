@@ -104,7 +104,9 @@ The project uses two datasets:
    - Estimated missing Fire Extinguished dates using the median values.
 
 ## Additional Information
-![This graph shows total and avg days of a wildfire per year]("C:\Users\Owner\Desktop\SMU\SMU_Bootcamp_Project-1\Wildfire duration by year.png")
+![This graph shows total and avg days of a wildfire per year](https://github.com/user-attachments/assets/2e7363ac-5747-40fd-9427-a1266ab010b3)
+
+
 After cleaning, the final dataset was successfully exported to the output folder for analysis.
 
 ### Conclusion
