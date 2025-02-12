@@ -103,7 +103,7 @@ The project uses two datasets:
    - Calculated median extinguishing time for each bin.
    - Estimated missing Fire Extinguished dates using the median values.
 
-## Additional Information
+## Additional Information and Images
 ![This graph shows total and avg days of a wildfire per year](https://github.com/user-attachments/assets/2e7363ac-5747-40fd-9427-a1266ab010b3)
 - This graph shows the total and average days of a wildfire per year
 
@@ -113,6 +113,18 @@ The project uses two datasets:
 
 ![Acres burned per year](https://github.com/user-attachments/assets/dac81eaa-fe8e-4453-a95f-c6e5a554a71b)
 - Showing the acerage burned per year, this graph shows how the majority happened in the 2018 season 
+
+![Personnel Involved Per year](https://github.com/user-attachments/assets/2e70c053-3bf8-4877-b06a-9bd2fde09bf7)
+- With the decreasing number of Personnel involved to respond to the fires its taking longer for them to be contained
+
+![Humidity v Acres ](https://github.com/user-attachments/assets/ae5b1d83-fae1-47f1-8d4b-2508365c56d6)
+- The correlation between humidity and severity of the fires is shown here
+- Higher humidity correlates with the how many acres burned
+
+![image](https://github.com/user-attachments/assets/411ac995-f5c8-4395-afa5-46b49c6e848c)
+- Siskiyou county has the largest wildfire area
+- After statistical testing and doing a hypothesis test we found that due to the conditions and climate of the northern-most county, it is a prone to larger longer wildfires
+- Siskiyou counties is made up of mostly wildlife and forest and lies predominantly on volcanic land/soil.
 
 
 
