@@ -3,15 +3,15 @@
 ## Overview
 This is our first group project where we showcase the information we've learned thus far for Mining, cleaning and visualizing a data set. For our project we chose to analyze the California wildfires from 2013 - present times specifically focusing on the following 10 counties.
 - RiverSide, Los Anfeles, San Diego, San Luis Obispo, Butte, Fresno, San Bernadino, Siskiyou, Kern, and Tulare
-We
+We used various Python libraries and created indivdual branches to save and share our findings. We pulled data from APIs, created graphs and heat maps and all collectively wrote code to assist with our overall findings.
 
+## Questions
 We started by creating the following reserach questions:
 - How have wildfire occurrenceds changed in California from 2013 - current?
 - What is the total acres burned per year?
 - How long do wildfires typicallay last, and has this changed over the years?
 -  How do firefighting resurces impact containment time?
--  
-## Questions
+  
 #### From our reserach questions, We came up with different Hypothesis and a statistical summary that we teamed up to breakdown.
 - Yearly Summary Statistics such as acres and counties burned, The Personanel involved, the structures damaged/ destroyed and the average length of Wildfires per year. - Tiya
 -  Does the temperature, humidity and time of year have a correlation with the number of acres burned? - Matt
@@ -22,7 +22,9 @@ We started by creating the following reserach questions:
 -  Is there a significant differnece in the average acres burned between counties? Dagim and Vanessa
   
 ## Project Goals & Methods
-- **Goal:** Clean and preprocess the data to enable statistical analysis and Determine if there is a statistically  significant difference in acres burned across different counties.
+- **Goals:** Clean and preprocess the data to enable statistical analysis and Determine if there is a statistically  significant difference in acres burned across different counties.
+
+
 - **Method:** Perform statistical testing and dissect and slice the cleaned DataFrame to calculate the total Acres Burned and the total Personnel Involved from the 10 counties. From there, we display the data in graphical form and draw a conclusion from the displayed Data. 
 
   - **Data Cleaning:** Handling missing values, duplicates, and merging datasets
