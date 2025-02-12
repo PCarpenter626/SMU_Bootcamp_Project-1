@@ -92,6 +92,14 @@ The project uses two datasets:
    - Calculated median extinguishing time for each bin.
    - Estimated missing Fire Extinguished dates using the median values.
 
-## Export
+## Additional 
 After cleaning, the final dataset was successfully exported to the output folder for analysis.
+
+### Conclusion
+ The analysis of California wildfires from 2013 to 2024 highlights significant trends in wildfire behavior, impact, and response efforts. The most widespread wildfires occurred in 2020 and 2021, burning over 2 million acres each year, while 2018 saw the highest number of affected counties. Structural damage was most severe in 2017 and 2018, reinforcing the growing threat of wildfires. Seasonal patterns reveal that July and August are the peak months, with wildfires more likely to occur when temperatures exceed 20°C. Additionally, data shows a strong correlation between temperature and acres burned, emphasizing the role of climate conditions in wildfire severity. The deployment of more personnel is linked to reduced wildfire spread, indicating the effectiveness of response efforts. While most wildfires remain relatively small, no statistical evidence suggests significant differences in acres burned across counties. Understanding these patterns is crucial for improving fire management strategies and mitigating future wildfire risks.
+
+
+
+
+
 
