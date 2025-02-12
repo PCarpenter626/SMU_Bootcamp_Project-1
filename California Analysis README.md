@@ -105,7 +105,7 @@ The project uses two datasets:
 
 ## Additional Information
 ![This graph shows total and avg days of a wildfire per year](https://github.com/user-attachments/assets/2e7363ac-5747-40fd-9427-a1266ab010b3)
-
+- This graph shows the total and average days of a wildfire per year
 
 After cleaning, the final dataset was successfully exported to the output folder for analysis.
 
