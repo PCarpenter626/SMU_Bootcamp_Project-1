@@ -62,8 +62,10 @@ To create this interactive visualizations, i have to add **import plotly.graph_o
 
 # Acknowledgement
 
-For this project we used California Wildfire dataset from the site kaggel.com. Our teammate Dagim Girma has done cleaning and filtering of the dataset. 
+For this project we used California Wildfire dataset from the site kaggel.com. Our teammate Dagim Girma has done cleaning and filtering of the dataset.
+
 Our Instructor, Tuncay E. Dogan, provided great assistance in completing this project. He shared many helpful website links to explore new ideas in data visualization and improve our coding skills.
+
 Various internet sites such as, Stack Overflow, GeeksForGeeks, and others were also helpful in times of error encounters and code generation.
 
 
