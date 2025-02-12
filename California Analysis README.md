@@ -5,7 +5,7 @@ This is our first group project where we showcase the information we've learned 
 </p> RiverSide, Los Anfeles, San Diego, San Luis Obispo, Butte, Fresno, San Bernadino, Siskiyou, Kern, and Tulare</p>
 We used various Python libraries and created indivdual branches to save and share our findings. We pulled data from APIs, created graphs and heat maps and all collectively wrote code to assist with our overall findings.
 
-## Questions
+## _Questions_
 We started by creating the following reserach questions:
 - How have wildfire occurrenceds changed in California from 2013 - current?
 - What is the total acres burned per year?
@@ -13,10 +13,17 @@ We started by creating the following reserach questions:
 -  How do firefighting resurces impact containment time?
   
 #### From our reserach questions, We came up with different Hypothesis and a statistical summary that we teamed up to breakdown.
-- Yearly Summary Statistics such as acres and counties burned, The Personanel involved, the structures damaged/ destroyed and the average length of Wildfires per year. - Tiya
+- Yearly Summary Statistics such as acres and counties burned, The Personanel involved, the structures damaged/ destroyed and the average length of Wildfires per year.</p> Specifically Tiya calculated the following:
+              > Calculate and Display Acres Burned Per Year
+              > Calculate and Display Counties Burned Per Year
+              > Calculate and Display Personnel Involved Per Year
+              > Calculate and Display Structures Damaged and Destroyed Per Year
+              > Calculate and Display the Average length of the Wildfire Per Year
+
 -  Does the temperature, humidity and time of year have a correlation with the number of acres burned? - Matt
-- How does the wildfires affect the Air Quality - Ricia
-- Does the number of First Responders have a correlation witht the number of acres burned? - Patrick
+- What is the environmental impact of wildfires; Specifically the severity of the fires and the time it took for containment as well as how it effected the vegetation of the land and soil. - Ricia
+- **Question:** Is there a correlation between Personnel Involved and First Responders. 
+- **Hypothesis:** I believe there is a Correlation. I believe the more personnel involved, the less acres burned -Patrick
 - Which California counties have Experienced the highest numebr of wildfires? - Elena
 - Is there a correlation between acres burned and fatalities? - Sergio and Francisco
 -  Is there a significant differnece in the average acres burned between counties? Dagim and Vanessa
