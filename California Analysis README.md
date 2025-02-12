@@ -12,7 +12,7 @@ This is our first group project where we showcase the information we've learned 
 8. Siskiyou,
 9. Kern
 10. Tulare</p>
-We used various Python libraries and created indivdual branches to save and share our findings. We pulled data from APIs, created graphs and heat maps and all collectively wrote code to assist with our overall findings.
+We used various Python libraries and created indivdual branches to save and share our findings. We pulled data from APIs and other data sets, created graphs and heat maps and all collectively wrote code to assist with our overall findings.
 
 ## _Questions_
 We started by creating the following reserach questions:
@@ -29,13 +29,13 @@ We started by creating the following reserach questions:
               - Calculate and Display Structures Damaged and Destroyed Per Year <br>
               - Calculate and Display the Average length of the Wildfire Per Year <br>
 
--  Does the temperature, humidity and time of year have a correlation with the number of acres burned? - Matt
+-  Does the temperature, humidity and time of year have a correlation with the number of acres burned? - _Matt_
 - What is the environmental impact of wildfires; Specifically the severity of the fires and the time it took for containment as well as how it effected the vegetation of the land and soil. - _Ricia_
 - 
-- Is there a correlation between Personnel Involved and First Responders. </p> **Hypothesis:** I believe there is a Correlation. I believe the more personnel involved, the less acres burned -Patrick
-- Which California counties have Experienced the highest numebr of wildfires? - Elena
-- Is there a correlation between acres burned and fatalities? - Sergio and Francisco
--  Is there a significant differnece in the average acres burned between counties? Dagim and Vanessa
+- Is there a correlation between Personnel Involved and First Responders. </p> **Hypothesis:** I believe there is a Correlation. I believe the more personnel involved, the less acres burned -_Patrick_
+- Which California counties have Experienced the highest numebr of wildfires? - _Elena_
+- Is there a correlation between acres burned and fatalities? - _Sergio and Francisco_
+-  Is there a significant differnece in the average acres burned between counties? - _Dagim and Vanessa_
   
 ## Project Goals & Methods
 - **Goals:** Clean and preprocess the data to enable statistical analysis and Determine if there is a statistically  significant difference in acres burned across different counties.
@@ -96,6 +96,7 @@ The project uses two datasets:
    - **Administrative Unit:** 56 missing values filled with 'Unknown'.
    - **Acres Burned:** 53 missing values dropped.
    - **County:** 10 missing values manually filled using latitude and longitude.
+   - **Fire Duration:** 65 missing or incorrect values removed making accuarte readings.
 5. **Estimating Missing Fire Extinguished Dates**
    - Categorized acres burned into bins.
    - Calculated median extinguishing time for each bin.
