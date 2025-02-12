@@ -32,7 +32,7 @@ We started by creating the following reserach questions:
 -  Does the temperature, humidity and time of year have a correlation with the number of acres burned? - _Matt_
 - What is the environmental impact of wildfires; Specifically the severity of the fires and the time it took for containment as well as how it effected the vegetation of the land and soil. - _Ricia_
 - 
-- Is there a correlation between Personnel Involved and First Responders. </p> **Hypothesis:** I believe there is a Correlation. I believe the more personnel involved, the less acres burned -_Patrick_
+- Is there a correlation between Personnel Involved and First Responders. </p> I believe there is a Correlation. I believe the more personnel involved, the less acres burned -_Patrick_
 - Which California counties have Experienced the highest numebr of wildfires? - _Elena_
 - Is there a correlation between acres burned and fatalities? - _Sergio and Francisco_
 -  Is there a significant differnece in the average acres burned between counties? - _Dagim and Vanessa_
