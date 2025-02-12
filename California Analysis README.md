@@ -22,12 +22,12 @@ We started by creating the following reserach questions:
 -  How do firefighting resources impact containment time?
   
 #### From our reserach questions, We came up with different Hypothesis and a statistical summary that we teamed up to breakdown.
-- Yearly Summary Statistics such as acres and counties burned, The Personanel involved, the structures damaged/ destroyed and the average length of Wildfires per year.</p> * Specifically Tiya calculated the following:
-              > Calculate and Display Acres Burned Per Year
-              > Calculate and Display Counties Burned Per Year
-              > Calculate and Display Personnel Involved Per Year
-              > Calculate and Display Structures Damaged and Destroyed Per Year
-              > Calculate and Display the Average length of the Wildfire Per Year
+- Yearly Summary Statistics such as acres and counties burned, The Personanel involved, the structures damaged/ destroyed and the average length of Wildfires per year.</p> * Specifically Tiya calculated the following:<br>
+              - Calculate and Display Acres Burned Per Year
+              - Calculate and Display Counties Burned Per Year
+              - Calculate and Display Personnel Involved Per Year
+              - Calculate and Display Structures Damaged and Destroyed Per Year
+              - Calculate and Display the Average length of the Wildfire Per Year
 
 -  Does the temperature, humidity and time of year have a correlation with the number of acres burned? - Matt
 - What is the environmental impact of wildfires; Specifically the severity of the fires and the time it took for containment as well as how it effected the vegetation of the land and soil. - _Ricia_
