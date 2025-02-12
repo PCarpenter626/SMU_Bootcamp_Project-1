@@ -1,51 +1,41 @@
 # SMU_Bootcamp_Project-1: California Wildfire Analysis
 
-## _Overview_
-This is our first group project where we showcase the information we've learned thus far for Mining, cleaning and visualizing a data set. For our project we chose to analyze the California wildfires from 2013 - present times specifically focusing on the following 10 counties.
-1. RiverSide,
-2. Los Anfeles,
-3. San Diego,
-4. San Luis Obispo,
-5. Butte,
-6. Fresno,
-7. San Bernadino,
-8. Siskiyou,
-9. Kern
-10. Tulare</p>
-We used various Python libraries and created indivdual branches to save and share our findings. We pulled data from APIs and other data sets, created graphs and heat maps and all collectively wrote code to assist with our overall findings.
+# California Wildfire Analysis (2013 - 2024)
 
-## _Questions_
-We started by creating the following reserach questions:
-- How have wildfire occurrenceds changed in California from 2013 - current?
-- What is the total acres burned per year?
-- How long do wildfires typicallay last, and has this changed over the years?
--  How do firefighting resources impact containment time?
-  
-#### From our reserach questions, We came up with different Hypothesis and a statistical summary that we teamed up to breakdown.
-- Yearly Summary Statistics such as acres and counties burned, The Personanel involved, the structures damaged/ destroyed and the average length of Wildfires per year.</p>  _Specifically Tiya calculated the following_:<br>
-              - Calculate and Display Acres Burned Per Year <br>
-              - Calculate and Display Counties Burned Per Year <br>
-              - Calculate and Display Personnel Involved Per Year <br>
-              - Calculate and Display Structures Damaged and Destroyed Per Year <br>
-              - Calculate and Display the Average length of the Wildfire Per Year <br>
+## Project Overview
+This project analyzes the impact of wildfires in California from 2013 to 2024 using data-driven techniques, statistical analysis, and visualizations. It examines wildfire behavior, key environmental factors, and correlations with various variables to provide a comprehensive understanding of wildfire trends and their consequences.
 
--  Does the temperature, humidity and time of year have a correlation with the number of acres burned? - _Matt_
-- What is the environmental impact of wildfires; Specifically the severity of the fires and the time it took for containment as well as how it effected the vegetation of the land and soil. - _Ricia_
-- 
-- Is there a correlation between Personnel Involved and First Responders. </p> I believe there is a Correlation. I believe the more personnel involved, the less acres burned -_Patrick_
-- Which California counties have Experienced the highest numebr of wildfires? - _Elena_
-- Is there a correlation between acres burned and fatalities? - _Sergio and Francisco_
--  Is there a significant differnece in the average acres burned between counties? - _Dagim and Vanessa_
-  
-## Project Goals & Methods
-- **Goals:** Clean and preprocess the data to enable statistical analysis and Determine if there is a statistically  significant difference in acres burned across different counties.
+The analysis explores patterns in wildfire occurrences, identifies factors influencing fire severity, and assesses their impact on air quality, vegetation recovery, and emergency response efforts. By leveraging time-series analysis and statistical testing, this study offers insights into wildfire trends and possible mitigation strategies.
 
+## Project Goals
+The primary objectives of this project are:
 
-- **Method:** Perform statistical testing and dissect and slice the cleaned DataFrame to calculate the total Acres Burned and the total Personnel Involved from the 10 counties. From there, we display the data in graphical form and draw a conclusion from the displayed Data. 
+1. **Analyze Annual Wildfire Impact**: Identify trends in acres burned, affected counties, personnel involvement, structures damaged, and fire duration.
+2. **Assess Climate and Seasonal Influences**: Examine correlations between temperature, humidity, seasonality, and wildfire extent.
+3. **Investigate Vegetation Recovery Constraints**: Identify factors that hinder regrowth in fire-affected regions.
+4. **Perform Time-Series Analysis**: Visualize wildfire trends over time to detect patterns and fluctuations.
+5. **Conduct Correlation Studies**: Explore relationships between variables such as:
+   - Injuries vs. Acres Burned
+   - Helicopters vs. Acres Burned
+   - Water Tenders vs. Acres Burned
+   - First Responders vs. Acres Burned
+6. **Analyze Air Quality Impact**: Assess how wildfires influence air pollution levels.
+7. **Classify Wildfire Sizes**: Categorize wildfires based on severity and affected areas.
+8. **Perform County-Level Analysis**: Evaluate regional differences in wildfire severity and investigate the high wildfire impact in Siskiyou County.
+9. **Conduct Statistical Testing**: Use hypothesis testing to identify significant trends and relationships.
 
-  - **Data Cleaning:** Handling missing values, duplicates, and merging datasets
-  - **Statistical Testing:** Performing Welch's ANOVA test to compare mean acres burned across counties.
- 
+## How These Goals Are Achieved
+To achieve these objectives, the project employs the following methodologies:
+
+- **Data Collection & Preprocessing**: Compiles wildfire data from government sources and cleans it for analysis.
+- **Exploratory Data Analysis (EDA)**: Uses descriptive statistics and visualizations to identify key trends.
+- **Time-Series Analysis**: Applies visualization techniques to observe long-term wildfire trends.
+- **Statistical Analysis & Hypothesis Testing**: Determines significant relationships between wildfire characteristics.
+- **Correlation Studies**: Uses statistical measures to evaluate the strength of relationships between variables.
+- **Data Visualization**: Uses graphs, heatmaps, and geospatial mapping for better insight presentation.
+
+By integrating these techniques, this project provides valuable insights into California's wildfire patterns, their driving factors, and potential mitigation strategies.
+
 
 ## Installation & Usage Instructions
 This project utilizes the following Python libraries. Install them using pip if not already installed:
