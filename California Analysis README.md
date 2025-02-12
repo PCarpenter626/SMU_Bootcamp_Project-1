@@ -2,7 +2,7 @@
 
 ## Overview
 This is our first group project where we showcase the information we've learned thus far for Mining, cleaning and visualizing a data set. For our project we chose to analyze the California wildfires from 2013 - present times specifically focusing on the following 10 counties.
-- RiverSide, Los Anfeles, San Diego, San Luis Obispo, Butte, Fresno, San Bernadino, Siskiyou, Kern, and Tulare
+</p> RiverSide, Los Anfeles, San Diego, San Luis Obispo, Butte, Fresno, San Bernadino, Siskiyou, Kern, and Tulare</p>
 We used various Python libraries and created indivdual branches to save and share our findings. We pulled data from APIs, created graphs and heat maps and all collectively wrote code to assist with our overall findings.
 
 ## Questions
