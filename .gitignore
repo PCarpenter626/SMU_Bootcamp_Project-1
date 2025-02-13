@@ -169,3 +169,21 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Files to ignore
+
+#Frankie
+#Output_Data_tiya
+#~$ Question.docx
+#CSV of Weather data.csv
+#EDA(Dagim).ipynb
+#ES_fire_california.ipynb
+#MW Cali_fires.ipynb
+#Patrick.ipynb
+#README_MW.md
+#SG-Fatalities.ipynb
+#Siskiyou facts.ipynb
+#tiya.ipynb
+#Vanessa.ipynb
+#wildfire_plot (5)_RD.ipynb
+
