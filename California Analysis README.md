@@ -164,7 +164,7 @@ The project uses two datasets:
 - [mateo](http://openmeteo.com/)
 
 
-#Team Members:
+#Team Members:</p>
 _Arangassery, Tiya_
 _Brewer, Vanessa_
 _Carpenter,Patrick_
