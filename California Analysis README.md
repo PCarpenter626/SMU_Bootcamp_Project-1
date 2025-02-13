@@ -165,15 +165,15 @@ The project uses two datasets:
 
 
 #Team Members:</p>
-_Arangassery, Tiya_
-_Brewer, Vanessa_
-_Carpenter,Patrick_
-_Daniels,Ricia_
-_Girma,Dagim_
-_Gonzalez,Fransicso_
-_Guerrero,Sergio_
-_Shchepotkina,Elena_
-_Westlman,Matt_
+_Arangassery, Tiya_</p>
+_Brewer, Vanessa_</p>
+_Carpenter,Patrick_</p>
+_Daniels,Ricia_</p>
+_Girma,Dagim_</p>
+_Gonzalez,Fransicso_</p>
+_Guerrero,Sergio_</p>
+_Shchepotkina,Elena_</p>
+_Westlman,Matt_</p>
 
 
 
