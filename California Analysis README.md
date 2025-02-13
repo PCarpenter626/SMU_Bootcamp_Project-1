@@ -146,8 +146,6 @@ The project uses two datasets:
 5. **Policy and Funding**: Advocating for policies that prioritize wildfire prevention and response funding can ensure that resources are available for effective management and recovery efforts.
 6. **Collaboration and Partnerships**: Strengthening collaboration between government agencies, non-profits, and local communities can lead to more coordinated and effective wildfire management strategies.
 
-### Conclusion
-California's wildfire challenges are multifaceted, involving environmental, social, and economic factors. While current approaches have limitations, there is significant potential for future development through improved technology, land management practices, community engagement, and policy reforms. By addressing these limitations and investing in innovative solutions, California can enhance its resilience to wildfires and protect its communities and natural resources.
 
 ### Conclusion
  The analysis of California wildfires from 2013 to 2024 highlights significant trends in wildfire behavior, impact, and response efforts. The most widespread wildfires occurred in 2020 and 2021, burning over 2 million acres each year, while 2018 saw the highest number of affected counties. Structural damage was most severe in 2017 and 2018, reinforcing the growing threat of wildfires. Seasonal patterns reveal that July and August are the peak months, with wildfires more likely to occur when temperatures exceed 20°C. Additionally, data shows a strong correlation between temperature and acres burned, emphasizing the role of climate conditions in wildfire severity. The deployment of more personnel is linked to reduced wildfire spread, indicating the effectiveness of response efforts. While most wildfires remain relatively small, no statistical evidence suggests significant differences in acres burned across counties. Understanding these patterns is crucial for improving fire management strategies and mitigating future wildfire risks.
@@ -158,6 +156,8 @@ California's wildfire challenges are multifaceted, involving environmental, soci
 - [](https://en.wikipedia.org/wiki/List_of_California_wildfires) 
 - [](https://enviroliteracy.org/how-long-can-a-wildfire-last)
 - [](https://www.frontlinewildfire.com/california-wildfire-map)
+
+
 #Team Members:
 _Arangassery, Tiya_
 _Brewer, Vanessa_
