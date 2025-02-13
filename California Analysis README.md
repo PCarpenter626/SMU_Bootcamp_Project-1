@@ -81,10 +81,14 @@ The project uses two datasets:
 - **Shape:** (1636, 40)
 - **Columns Retained:** 14 columns selected for analysis
 
-### **API Dataset 3:
+### **API Dataset 3:**
 - **Source** Openmateo http://openmeteo.com/
 - **Data:**Climate and weather
 - **Shape:** 2922 row x 4 coluns
+
+### **Dataset 4: california_airquility.csv**
+- **Source** Kaggle - California air quality
+- **Data** Air quality of California
 
 ### Cleaning Process
 1. **Data Import & Filtering**
