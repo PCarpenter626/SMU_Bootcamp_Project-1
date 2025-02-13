@@ -152,10 +152,10 @@ The project uses two datasets:
 
 #### References
 - [Kaggle](Kaggel.com)
-- [](www.fire.ca.gov/our-impact)
-- [](https://en.wikipedia.org/wiki/List_of_California_wildfires) 
-- [](https://enviroliteracy.org/how-long-can-a-wildfire-last)
-- [](https://www.frontlinewildfire.com/california-wildfire-map)
+- [Cali.gov](www.fire.ca.gov/our-impact)
+- [Wiki California wildfire](https://en.wikipedia.org/wiki/List_of_California_wildfires) 
+- [enviroliteracy](https://enviroliteracy.org/how-long-can-a-wildfire-last)
+- [frontline fire](https://www.frontlinewildfire.com/california-wildfire-map)
 
 
 #Team Members:
