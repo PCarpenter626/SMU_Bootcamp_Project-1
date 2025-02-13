@@ -127,12 +127,51 @@ The project uses two datasets:
 - Siskiyou counties is made up of mostly wildlife and forest and lies predominantly on volcanic land/soil.
 
 
+### Major Findings
+- What we have found from our research is that 2018 Saw the most affected counties and had the most destroyed during the fires with 2020 and 2021 having the highest acres burned. If the number of personnel increased the containment time for the wildfires could lessen.
+
+### Limitations of Current Approaches to California Wildfires
+1. **Resource Constraints**: Firefighting resources, including personnel, equipment, and funding, are often limited, especially during peak wildfire seasons. This can hinder effective response and containment efforts.
+2. **Climate Change Impact**: Increasing temperatures and prolonged drought conditions due to climate change exacerbate wildfire risks, making it difficult to predict and manage fire behavior.
+3. **Land Management Practices**: Historical land management practices, such as fire suppression and lack of controlled burns, have led to an accumulation of fuel (dead trees, brush, etc) that can intensify wildfires.
+4. **Urban-Wildland Interface**: The expansion of urban areas into wildland regions increases the risk of property damage and loss of life during wildfires, complicating evacuation and response strategies.
+5. **Data Limitations**: While technology has improved, there are still gaps in real-time data collection and analysis regarding fire behavior, weather conditions, and vegetation health, which can hinder effective decision-making.
+6. **Public Awareness and Preparedness**: Many residents in fire-prone areas may lack awareness of wildfire risks and preparedness measures, leading to inadequate responses during emergencies.
+
+### Future Development 
+1. **Enhanced Predictive Modeling**: Investing in advanced modeling techniques that incorporate climate data, vegetation health, and historical fire behavior can improve predictions of wildfire risks and behavior.
+2. **Improved Land Management**: Implementing more proactive land management strategies, including controlled burns and forest thinning, can reduce fuel loads and mitigate the severity of wildfires.
+3. **Community Engagement and Education**: Increasing public awareness and preparedness through community programs can help residents understand risks and develop effective evacuation plans.
+4. **Technological Innovations**: Utilizing drones, satellite imagery, and AI for real-time monitoring and assessment of wildfire conditions can enhance response efforts and resource allocation.
+5. **Policy and Funding**: Advocating for policies that prioritize wildfire prevention and response funding can ensure that resources are available for effective management and recovery efforts.
+6. **Collaboration and Partnerships**: Strengthening collaboration between government agencies, non-profits, and local communities can lead to more coordinated and effective wildfire management strategies.
+
+### Conclusion
+California's wildfire challenges are multifaceted, involving environmental, social, and economic factors. While current approaches have limitations, there is significant potential for future development through improved technology, land management practices, community engagement, and policy reforms. By addressing these limitations and investing in innovative solutions, California can enhance its resilience to wildfires and protect its communities and natural resources.
 
 ### Conclusion
  The analysis of California wildfires from 2013 to 2024 highlights significant trends in wildfire behavior, impact, and response efforts. The most widespread wildfires occurred in 2020 and 2021, burning over 2 million acres each year, while 2018 saw the highest number of affected counties. Structural damage was most severe in 2017 and 2018, reinforcing the growing threat of wildfires. Seasonal patterns reveal that July and August are the peak months, with wildfires more likely to occur when temperatures exceed 20°C. Additionally, data shows a strong correlation between temperature and acres burned, emphasizing the role of climate conditions in wildfire severity. The deployment of more personnel is linked to reduced wildfire spread, indicating the effectiveness of response efforts. While most wildfires remain relatively small, no statistical evidence suggests significant differences in acres burned across counties. Understanding these patterns is crucial for improving fire management strategies and mitigating future wildfire risks.
 
+#### References
+- [Kaggle](Kaggel.com)
+- [](www.fire.ca.gov/our-impact)
+- [](https://en.wikipedia.org/wiki/List_of_California_wildfires) 
+- [](https://enviroliteracy.org/how-long-can-a-wildfire-last)
+- [](https://www.frontlinewildfire.com/california-wildfire-map)
+#Team Members:
+_Arangassery, Tiya_
+_Brewer, Vanessa_
+_Carpenter,Patrick_
+_Daniels,Ricia_
+_Girma,Dagim_
+_Gonzalez,Fransicso_
+_Guerrero,Sergio_
+_Shchepotkina,Elena_
+_Westlman,Matt_
 
-# Acknowledgement
+
+
+### Acknowledgement
 
 For this project we used California Wildfire dataset from the site kaggel.com. Our teammate Dagim Girma has done cleaning and filtering of the dataset.
 
